@@ -1095,13 +1095,12 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background-color: transparent;
-	min-width: 130px;
+	background: #000000;
+	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
-	left:-20px;
+	left: 90px;
 	top: 0;
-	;
 }
 header .logo {
 	float: left;
